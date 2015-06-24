@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Android_SDK_v1.2_Fix/Android_SDK_v1.2_Fix.iml" filepath="$PROJECT_DIR$/../Android_SDK_v1.2_Fix/Android_SDK_v1.2_Fix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BaiduMapExample.iml" filepath="$PROJECT_DIR$/BaiduMapExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../BaiduMapsApiDemo/BaiduMapsApiDemo.iml" filepath="$PROJECT_DIR$/../BaiduMapsApiDemo/BaiduMapsApiDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../IntelligentCommunity/IntelligentCommunity.iml" filepath="$PROJECT_DIR$/../IntelligentCommunity/IntelligentCommunity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Like/Like.iml" filepath="$PROJECT_DIR$/../Like/Like.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MainLibs/MainLibs.iml" filepath="$PROJECT_DIR$/../MainLibs/MainLibs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../appcompat_v7/appcompat_v7.iml" filepath="$PROJECT_DIR$/../appcompat_v7/appcompat_v7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../com_weibo_android/com_weibo_android.iml" filepath="$PROJECT_DIR$/../com_weibo_android/com_weibo_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mylibss/mylibss.iml" filepath="$PROJECT_DIR$/../mylibss/mylibss.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../renren_android_connect/renren_android_connect.iml" filepath="$PROJECT_DIR$/../renren_android_connect/renren_android_connect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../workspace.iml" filepath="$PROJECT_DIR$/../workspace.iml" />
+    </modules>
+  </component>
+</project>

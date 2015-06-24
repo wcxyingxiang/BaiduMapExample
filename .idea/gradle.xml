@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="1.7" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/.." />
+            <option value="$PROJECT_DIR$/../Android_SDK_v1.2_Fix" />
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/../BaiduMapsApiDemo" />
+            <option value="$PROJECT_DIR$/../IntelligentCommunity" />
+            <option value="$PROJECT_DIR$/../Like" />
+            <option value="$PROJECT_DIR$/../MainLibs" />
+            <option value="$PROJECT_DIR$/../appcompat_v7" />
+            <option value="$PROJECT_DIR$/../com_weibo_android" />
+            <option value="$PROJECT_DIR$/../mylibss" />
+            <option value="$PROJECT_DIR$/../renren_android_connect" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
